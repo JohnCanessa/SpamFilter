@@ -12,7 +12,7 @@ I should compare the code examples in GitHub against the code in this post.
 If interested in additional comments, I invite you to read the following
 post in my blg:
 
-<T.B.D.>
+https://www.johncanessa.com/2023/04/21/spam-filter/
 
 Keep in mind that one of the best ways to learn is to read, experiment, and repeat.
 
